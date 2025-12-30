@@ -1,68 +1,76 @@
 ## Hola 👋
 
+
 # 👨‍💻 Ricardo Berrios  
-**Backend Developer | Python Specialist | API Development**
+**Desarrollador Backend | Especialista en Python | Desarrollo de APIs**
 
-Desarrollador Backend con 2 años de experiencia en Python y 1 año en infraestructura. Especializado en crear APIs robustas y sistemas escalables
+Desarrollador Backend con 2 años de experiencia en Python y 1 año en infraestructura. Especializado en crear APIs robustas y sistemas escalables.
 
+## 🛠️ Tecnologías
 
-## 🛠️ Tech Stack
+### **Desarrollo Backend**
+- **Python** (2 años)
+- **FastAPI** (1 año) - APIs de alto rendimiento
+- **Django** (6 meses) - Aplicaciones web completas
+- **Flask** (6 meses) - Microservicios y aplicaciones ligeras
 
-### **Backend Development**
-- **Python** (3 years)
-- **FastAPI** (1 year) - High-performance APIs
-- **Django** (6 months) - Full-stack web applications
-- **Flask** (6 months) - Microservices & lightweight apps
-
-### **Databases**
+### **Bases de Datos**
 - PostgreSQL
 - MySQL / MariaDB
+- SQLite
 
-### **Infrastructure** (1 year experience)
-- **Virtualization**: Proxmox, VMware
+### **Infraestructura** (1 año de experiencia)
+- **Virtualización**: Proxmox, VMware
 - **Storage**: IBM Storage, SAN
-- **Linux Systems**: Ubuntu, Debian, Rocky Linux
-- Server administration & deployment
+- **Sistemas Linux**: Ubuntu, Debian, Rocky Linux
+- Administración y despliegue de servidores
 
-### **Frontend Integration**
+### **Integración Frontend**
 - React
 - Vite
-- API integration
+- Integración de APIs
 
-## 📁 Featured Projects
+## 📁 Proyectos Destacados
 
+### **Mermis - Plataforma Empresarial**
+> Sistema integral de gestión empresarial (proyecto desarrollado para Nexaven)
+- **Role**: Desarrollo Backend
+- **Características**: Gestión empresarial, módulos integrados, panel administrativo
+- **Home Page**: [www.mermis.site](https://www.mermis.site/)
+- **Aplicativo**: [app.mermis.site](https://app.mermis.site/)
+- **Nota**: Código privado por políticas de seguridad de la empresa
+
+### **SCGA - Sistema de Control de Gestión Académica**
 > Sistema completo para control de asistencia y gestión académica
-- **Tech**: Vite, Python/FastAPI, Sqlite
-- **Features**: Control de asistencia, gestión de cursos, reportes académicos
-- **Status**: 🟡 Pre-producción (en pruebas)
+- **Tecnologías**: Vite, Python/FastAPI, SQLite
+- **Características**: Control de asistencia, gestión de cursos, reportes académicos
+- **Estado**: 🟡 Pre-producción (en pruebas)
 - **Frontend**: [scga.vercel.app](https://scga.vercel.app)
-- **Repo**: [github.com/Ricardo4680/SCGA](https://github.com/Ricardo4680/SCGA)
+- **Repositorio**: [github.com/Ricardo4680/SCGA](https://github.com/Ricardo4680/SCGA)
 
 ### **Sistema de Condominio**
 > Plataforma para gestión de condominios y administración de propiedades
-- **Tech**: Django-Python, Sqlite
-- **Features**: Gestión de residentes, pagos, reportes, comunicación
-- **Status**: 🔴 Desarrollo (no en producción)
-- **Repo**: [github.com/Ricardo4680/Condominio](https://github.com/Ricardo4680/Condominio)
+- **Tecnologías**: Django-Python, SQLite
+- **Características**: Gestión de residentes, pagos, reportes, comunicación
+- **Estado**: 🔴 Desarrollo (no en producción)
+- **Repositorio**: [github.com/Ricardo4680/Condominio](https://github.com/Ricardo4680/Condominio)
 
+## 💼 Experiencia Destacada
 
+- Desarrollo de APIs RESTful para plataformas empresariales
+- Participación en proyecto comercial para Nexaven (Mermis)
+- Integración de sistemas backend con frontends modernos
+- Despliegue y mantenimiento de aplicaciones en servidores Linux
+- Automatización de tareas con scripts Python
+- Diseño y optimización de esquemas de bases de datos
 
-## 💼 Experience Highlights
+## 📈 Actualmente Aprendiendo
+- Docker y contenedores
+- Buenas prácticas de DevOps
+- Arquitecturas de microservicios
 
-- Developed RESTful APIs serving 10k+ daily requests
-- Integrated backend systems with React frontends
-- Deployed and maintained applications on Linux servers
-- Automated infrastructure tasks with Python scripts
-- Designed and optimized database schemas
-
-## 📈 Currently Learning
-- Docker
-- 
-- 
-- GraphQL APIs
-
-## 📫 Connect With Me
-- **GitHub**: [@ricardoberrios](https://github.com/Ricardo46890)
+## 📫 Conéctate Conmigo
+- **GitHub**: [@Ricardo4680](https://github.com/Ricardo4680)
 - **LinkedIn**: [Ricardo Berrios](https://www.linkedin.com/in/ricardo-berrios-999148320)
 - **Email**: ricarberri@gmail.com
----
+
