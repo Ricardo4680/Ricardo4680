@@ -1,6 +1,6 @@
-## Hola 👋 soy 👨‍💻 Ricardo Berrios 
+## Hola 👋 soy  Ricardo Berrios 
 
-**Desarrollador Backend | Especialista en Python | Desarrollo de APIs**
+** 👨‍💻 Desarrollador Backend | Especialista en Python | Desarrollo de APIs**
 
 Desarrollador Backend con 2 años de experiencia en Python y 1 año en infraestructura. Especializado en crear APIs robustas y sistemas escalables.
 
