@@ -17,7 +17,6 @@ Desarrollador Backend con 2 años de experiencia en Python y 1 año en infraestr
 ### **Databases**
 - PostgreSQL
 - MySQL / MariaDB
-- Database design & optimization
 
 ### **Infrastructure** (1 year experience)
 - **Virtualization**: Proxmox, VMware
